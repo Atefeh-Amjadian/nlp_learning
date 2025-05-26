@@ -6,6 +6,7 @@ Welcome to my repository for learning **Natural Language Processing (NLP)** and 
 - **tokenization.ipynb**: Demonstrates text tokenization using the NLTK library in Python.
 - **iris_classification.ipynb**: Implements a classification model for the Iris dataset using Logistic Regression in Scikit-learn (accuracy: ~0.97).
 - **text_classification.ipynb**: Builds a sentiment analysis model using Logistic Regression with an accuracy of 0.666 (work in progress to improve with larger datasets like Twitter Sentiment).
+- **Titanic.ipynb**: Predicts Titanic survival using Random Forest Classifier with custom encoding and median-filled Age (accuracy: ~0.82).
 
 ## Goals
 - Master NLP techniques for applications like sentiment analysis, chatbots, and text classification.
